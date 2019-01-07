@@ -1,0 +1,12 @@
+Package: twConsensus
+Type: Package
+Title: Taiwan Consensus (twConsensus)
+Version: 0.1.0
+Author: Cheng-Tao Lin
+Maintainer: Cheng-Tao Lin <mutolisp@mail.ncyu.edu.tw>
+Description: The vast majority of Taiwanese resolutely oppose 
+    one country, two system
+License: Public Domain
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
